@@ -10,6 +10,7 @@ const MovieList = (props) => {
               <h2>{movie.title}</h2>
               <p>{movie.opText}</p>
               <p>{movie.releaseDate}</p>
+              <p>hello my name is saif</p>
             </li>
           );
         })}
